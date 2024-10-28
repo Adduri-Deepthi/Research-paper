@@ -1,0 +1,19 @@
+Guidelines to write a research paper
+---> To write research paper choose any ms applciation choosed ms word.
+//  Page Setup ( from page layout)
+.A4 size 
+.Margin 1(Top,Bottom,Right,Left)
+//Page title
+.font:TIMES NEW ROMAN
+.size - 24
+// Author name & address:
+.font: TIMES NEW ROMAB
+.size : 10
+// Two column Format
+.equally divide into two column
+// Abstract and keywords
+.font:times new roman(italic)
+.size:9
+//Body text
+font:times new roman
+size-10
